@@ -1,0 +1,70 @@
+/*-------login css--------*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body,.backgorund{
+    display: flex !important;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+    height: 690px;
+    color: black;
+    /* background: linear-gradient(200deg, rgb(54, 54, 54), rgb(255, 1, 1)); */
+    background: #454545 url(../image/1.jpg) repeat 0px 0px;
+    background-size: cover;
+    background-blend-mode: darken;
+    background-position: center;
+    
+}
+.container{
+ 
+    border: 2px ;
+    /* border-radius: 10px; */
+    /* border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px; */
+    position: relative;
+    /* width: 50%; */
+    height: 200px;
+    opacity: 0.7;
+    background:rgb(253, 253, 253);
+    padding: 40px 20px;
+    /* box-shadow: 4px 6px 3px 1px rgb(88, 88, 88); */
+
+    border: 1px solid rgb(219, 97, 97) !important ;
+    border-radius: 6px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.9), 0 6px 20px 0 rgba(0, 0, 0, 0.19) !important;
+    
+}
+.input1, form{
+    border: 2px ;
+    border-radius: 10px;
+    margin: 3px,0;
+    /* position: relative; */
+    height: 50px;
+    width:100%;
+}
+.input1 input{
+    border: 4px ;
+    border-radius: 10px;
+    height: 50%;
+    padding-left: 15px;
+    margin: 3px,0;
+}
+.btn{
+    padding: 5px 14px;
+    margin: 4px 2px;
+    border: 1px solid tomato !important;
+    border-radius: 15px;
+    font-size: 12px;
+    /* background: rgb(207, 204, 204); */
+    outline: none;
+}
+.btn:hover{
+    background:red !important;
+    letter-spacing: 1px;
+    transition: all 0.4s ease 0s;
+}
+
