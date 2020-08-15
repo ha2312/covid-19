@@ -139,13 +139,12 @@ input, textarea{
     border-radius: 6px;
 /*     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.1); */
 }
-
 .sbton{
     width: 100%;
     align-items: center;
     justify-content: center;
     margin: auto;
-/*     display: flex; */
+    /* display: flex; */
     padding: 3px;
     max-width: 400px;
     font-size: 16px;
@@ -154,6 +153,7 @@ input, textarea{
     outline: none;
     /* background:; */
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4), 0 6px 20px 0 rgba(0, 0, 0, 0.1);
+    
 }
 .sbton:hover{
     background: #ed3330 !important;
