@@ -144,9 +144,9 @@ input, textarea{
     width: 100%;
     align-items: center;
     justify-content: center;
-    margin: auto;
-    /* display: flex; */
-    padding: 3px;
+/*     margin: auto; */
+/*     display: flex; */
+/*     padding: 3px; */
     max-width: 400px;
     font-size: 16px;
     border-radius: 15px;
@@ -226,8 +226,9 @@ input, textarea{
 .contact{
     width: 100%;
     background-color:#F0E5E3;
-    height: 525px;
-    
+/*     height: 525px; */
+    height: auto;
+    padding: 9px;
 }
 .heading{
     justify-content: center;
