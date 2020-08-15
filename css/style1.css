@@ -30,9 +30,7 @@ html{
     top: 0;
     cursor: pointer;
     /* background-color: rgb(40,40,40); */
-    background-color:#454545;
-    
-    
+    background-color:#454545; 
 }
 .navlist{
     display: flex;
