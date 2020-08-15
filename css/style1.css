@@ -270,6 +270,7 @@ input, textarea{
     justify-content: center;
     height: 10vh;
     padding: 10px;
+    margin: 0px -17px;
     color: indianred;
     background-color:#dddddd !important;
     
