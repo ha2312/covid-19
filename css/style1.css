@@ -181,7 +181,7 @@ input, textarea{
     box-shadow: 5px 40px -10px rgba(0,0,0,0.57); */
      transition: all 0.4s ease 0s;
 }
-.btn-sm a{
+.btn-sm{
     padding: 5px 14px;   
     margin: 4px 2px;
     border: 2px solid white !important;
@@ -197,6 +197,9 @@ input, textarea{
      letter-spacing: 1px;
      transition: all 0.4s ease 0s;
  }
+.btn-sm{
+    color:white;
+}
 .sectright{
     display: flex;
     align-items: center;
