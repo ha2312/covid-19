@@ -58,7 +58,7 @@ html{
 .navlist a:hover{
     color:#ed3330;
 }
-#search{
+#search a{
     padding: 7px;
     /* margin: 4px 2px; */
     font-size: 14px;
@@ -162,7 +162,7 @@ input, textarea{
     box-shadow: 5px 40px -10px rgba(0,0,0,0.57); */
      transition: all 0.4s ease 0s;
 }
-.btn a{
+.btn{
     padding: 9px 20px;
     margin: 8px 4px;
     border: 2px solid white;
