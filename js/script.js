@@ -6,12 +6,13 @@ function fValidate()
 
   if (username.value ==""||password.value =="") 
   {
-      alert("Please fill all inputs_____!");
+      alert("Enter username or passpword!");
       return false;
      
   }
   else
   { 
+    alert("sucess");
       true;
   }
 }
