@@ -9,7 +9,8 @@
         background-blend-mode: darken;
         background-color: black;
         transition: all 0.9s ease-out;
-        height: 400px;
+/*         height: 400px; */
+        height: 459;
     }
     .rightnav{
         text-align: center;
