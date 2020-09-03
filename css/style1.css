@@ -191,7 +191,7 @@ input, textarea{
     color: white !important;
     outline: none;
 }
-.btn-sm:hover{
+.btn-sm a:hover{
      /* background: #ed3330; */
      background: grey !important;
      letter-spacing: 1px;
