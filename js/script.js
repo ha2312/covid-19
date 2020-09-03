@@ -12,7 +12,7 @@ function fValidate()
   }
   else
   { 
-    alert("sucess");
+    alert("Success");
       true;
   }
 }
