@@ -58,7 +58,7 @@ html{
 .navlist a:hover{
     color:#ed3330;
 }
-#search a{
+#search{
     padding: 7px;
     /* margin: 4px 2px; */
     font-size: 14px;
