@@ -49,6 +49,7 @@ html{
 }
 .rightnav a{
     color: white;
+    font-size: 15px;
 }
 .navlist li{
     list-style: none;
