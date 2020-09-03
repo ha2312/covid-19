@@ -6,7 +6,7 @@ function fValidate()
 
   if (username.value ==""||password.value =="") 
   {
-      alert("Enter Valid username or passpword");
+      alert("Enter Valid Username or Password");
       return false;
      
   }
