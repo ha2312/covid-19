@@ -197,9 +197,6 @@ input, textarea{
      letter-spacing: 1px;
      transition: all 0.4s ease 0s;
  }
-.btn{
-    color:white;
-}
 .sectright{
     display: flex;
     align-items: center;
